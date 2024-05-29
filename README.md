@@ -3,7 +3,6 @@ I am Saruar Hosen Shanto.I am a passionate web developer
 
 - Skills: C,HTML,CSS,JAVASCRIPT
 - Education: BSC in Statistics,Dhaka College
-- Work Experience: spss and R pogramming 
 - Contact Information: saruarhosen98@gmail.com
 - https://www.linkedin.com/in/saruar-hosen-652a77195/
 
