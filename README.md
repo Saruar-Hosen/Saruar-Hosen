@@ -1,5 +1,11 @@
 ## Hi there 👋
-I am Saruar Hosen Shanto.
+I am Saruar Hosen Shanto.I am a passionate web developer.
+-Skills: C,HTML,CSS,JAVASCRIPT
+-Education: BSC in Statistics,Dhaka College
+-Work Experience: spss and R pogramming 
+-Contact Information: saruarhsoen98@gimail.com
+-
+
 <!--
 **Saruar-Hosen/Saruar-Hosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
