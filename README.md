@@ -5,7 +5,7 @@ I am Saruar Hosen Shanto.I am a passionate web developer
 - Education: BSC in Statistics,Dhaka College
 - Work Experience: spss and R pogramming 
 - Contact Information: saruarhsoen98@gmail.com
-https://www.linkedin.com/in/saruar-hosen-652a77195/
+- https://www.linkedin.com/in/saruar-hosen-652a77195/
 
 <!--
 **Saruar-Hosen/Saruar-Hosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
