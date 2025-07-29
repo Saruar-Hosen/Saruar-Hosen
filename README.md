@@ -1,8 +1,6 @@
 ## Hi there 👋
-I am Saruar Hosen Shanto
+I am Saruar Hosen Shanto.
 
-- Skills
-- 
 - Contact Information: saruarhosen98@gmail.com
 - https://www.linkedin.com/in/saruar-hosen-652a77195/
 
