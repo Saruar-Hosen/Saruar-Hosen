@@ -1,8 +1,8 @@
 ## Hi there 👋
-I am Saruar Hosen Shanto.My goal is to be a developer.
+I am Saruar Hosen Shanto
 
-- Skills: C,HTML,CSS,JAVASCRIPT
-- Education: BSC in Statistics,Dhaka College
+- Skills
+- 
 - Contact Information: saruarhosen98@gmail.com
 - https://www.linkedin.com/in/saruar-hosen-652a77195/
 
